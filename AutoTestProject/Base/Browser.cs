@@ -12,7 +12,7 @@ namespace AutoTestFramework.Base
             _driver = Driver;
         }
 
-        //public BrowserType Type { get; set; }
+       // //public BrowserType Type { get; set; }
 
         public void GotoUrl(string url)
         {
